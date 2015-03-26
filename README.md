@@ -1,6 +1,4 @@
 # steambmc
-Steam integration plugin for Kodi (Formerly XBMC)
-
 This project is aimed at giving Kodi (Formerly XBMC) the ability to launch steam games that you have locally on your machine.
 
 ### Features that are desired
