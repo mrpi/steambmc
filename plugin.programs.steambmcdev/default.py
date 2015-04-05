@@ -95,7 +95,7 @@ def setupDefaultSettings():
         else:
             addon.setSetting("steam_bin", "C:\\Program Files (x86)\\Steam\\Steam.exe")
     elif sys.platform.startswith("linux"): 
-        addon.setSetting("steam_bin", "Linux Steam directory auto-fill TODO")
+        addon.setSetting("steam_bin", "/usr/bin/steam")
 
 # Main entry point
 if __name__ == "__main__":
